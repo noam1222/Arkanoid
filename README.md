@@ -28,7 +28,7 @@ To run in any other levels order use the command `ant run -Dargs="levels order"`
 To clean all the compilation files use `ant clean`. </br>
 To compile the game without run it use `ant compile`. </br>
 
-### Requierments
+### Requirements
 - Java.
 - Ant.
 
